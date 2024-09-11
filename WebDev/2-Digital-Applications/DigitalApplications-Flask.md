@@ -138,6 +138,14 @@ N/A
 
 ### Week 8
  ![[semesterCalendarS2#School Events - Week 8]]
+#### Videos
+
+ ![Introduction](https://youtu.be/7B6QERTeYYU)
+
+  
+  ![Practical](https://youtu.be/0rY4fMPQtwk)
+![Assessment](https://youtu.be/uCfS1UTsFUA)
+  
 #### Class Tasks
 - [ ] [Assessment 2 Information](WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
 #### Theory
@@ -234,11 +242,11 @@ N/A
 
 # Subject Information
 
-| Unit Outline     | Assessments         |
-| ---------------- | ------------------- |
-| Google Classroom | Assessment 1 - 25 % |
-|                  | Assessment 2 - 50 % |
-|                  | Assessment 3 - 25 % |
+| Unit Outline     | Assessments                                                                        |
+| ---------------- | ---------------------------------------------------------------------------------- |
+| Google Classroom | Assessment 1 - 25 %                                                                |
+|                  | [Assessment 2](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md) - 50 % |
+|                  | Assessment 3 - 25 %                                                                |
 
 
 ![[commonBlocks#Contact Details]]
