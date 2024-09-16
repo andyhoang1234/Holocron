@@ -44,7 +44,7 @@ Focus on how data is transmitted within the project from one sub-system to anoth
 ## Development Process
 
 - Brief 2-4 sentence summary for each week of what that week of development involved
-	- What did you add to the Website?
+	- What did you add to the Project?
 	- How does your addition fit into the grand scheme of the project?
 	- What new skills were required to make these additions?
 	- Explain how previous learning and work contributed to your ability to complete this week or work.
@@ -58,7 +58,7 @@ This weekly summary may not work depending on your project. It may be worthwhile
 
 This section of the report should focus on a certain topic of the project. You may be required to analyse code, configurations or how components were developed, or different aspects, depending on the requirements of the section (see the assessment document).
 
-The use of screenshots, videos, and diagrams are highly encouraged to convey complex information in an easily understood medium.
+The use of screenshots, videos, and diagrams is highly encouraged to convey complex information in an easily understood medium.
 
 You may find the basic structure below to be beneficial to structuring your response.
 
@@ -66,19 +66,20 @@ You may find the basic structure below to be beneficial to structuring your resp
 
 graph LR;
 
-Introduction-->Evidence-->Explain-->Analysis;
+Introduction--> Evidence-->Explain-->Analysis;
 
 Analysis-->crit["Critical Analysis"];
-crit-->Evidence
+crit-->|Provide more if required| Evidence
 
 ```
 
-This diagram indicates how you could :
-1. **introduce** the topic required, 
-2. Provide **evidence** (screenshots, diagram, video etc)
+This diagram indicates the steps involved, namely :
+1. **Introduce** the topic required, 
+2. Provide **Evidence** (screenshots, diagram, video etc)
 3. **Explain** the importance of the evidence (or the part you wish to highlight)
 4. Provide a technical **Analysis** of the evidence (e.g. deep-dive on technical aspects of evidence/topic), and finally
 5. Compare or evaluate (provide a **Critical Analysis**) of the approach taken shown in the evidence against other approaches. 
+6. Go back to step 2 and continue as needed.
 
 
 ## Work Skills
